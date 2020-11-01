@@ -1,4 +1,4 @@
-baseURL = "https://antoniozenoglio.com/test/"
+baseURL = "https://antoniozenoglio.co/test/"
 languageCode = "en-us"
 title = "António Zenóglio"
 theme        = "hello-friend-ng"
@@ -6,7 +6,7 @@ paginate     = 10
 
 [params]
   #Default theme "light" or "dark"
-  defaultTheme = "light"
+  defaultTheme = "dark"
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
