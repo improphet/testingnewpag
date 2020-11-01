@@ -1,4 +1,93 @@
 baseURL = "https://antoniozenoglio.com/"
 languageCode = "en-us"
 title = "António Zenóglio"
-theme = "hellofriend"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  #Default theme "light" or "dark"
+  defaultTheme = "light"
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Nicha</a>"
+  footerRight = "Made with &#10084; by <a href=\"https://github.com/rhazdon\">lola Atlialp</a>"
+
+ # [params.portrait]
+  #   path     = "/img/image.jpg"
+   #  alt      = "Portrait"
+    # maxWidth = "50px"
+
+  # Subtitle for home
+  homeSubtitle = "Service Delivery Manager"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+
+
+ [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/"
+
+[[params.social]]
+    name = "email"
+    url  = "mailto:nobody@example.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/"
+
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/"
+
+  [[params.social]]
+    name = "stackoverflow"
+    url  = "https://www.stackoverflow.com/"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "António Zenóglio"
+    subtitle = "A simple theme for Hugo"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">Nichas</a>'
+    readOtherPosts = "Read other posts"
+
+    
+
+    [languages.en.params.logo]
+      logoText = "Nichas"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "About"
+    name       = "About"
+    url        = "/About"
+
+    #MINHAS
+
