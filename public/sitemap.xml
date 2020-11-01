@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://antoniozenoglio.com/</loc>
+    <loc>https://antoniozenoglio.com/test/</loc>
     <lastmod>2020-11-01T01:41:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antoniozenoglio.com/posts/my-first-post/</loc>
+    <loc>https://antoniozenoglio.com/test/posts/my-first-post/</loc>
     <lastmod>2020-11-01T01:41:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antoniozenoglio.com/posts/</loc>
+    <loc>https://antoniozenoglio.com/test/posts/</loc>
     <lastmod>2020-11-01T01:41:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antoniozenoglio.com/tags/</loc>
+    <loc>https://antoniozenoglio.com/test/tags/</loc>
     <lastmod>2020-11-01T01:41:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antoniozenoglio.com/tags/untagged/</loc>
+    <loc>https://antoniozenoglio.com/test/tags/untagged/</loc>
     <lastmod>2020-11-01T01:41:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antoniozenoglio.com/blog/</loc>
+    <loc>https://antoniozenoglio.com/test/blog/</loc>
   </url>
   
   <url>
-    <loc>https://antoniozenoglio.com/series/</loc>
+    <loc>https://antoniozenoglio.com/test/series/</loc>
   </url>
   
 </urlset>
