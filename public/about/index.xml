@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on António Zenóglio</title>
+    <link>https://antoniozenoglio.co/test/about/</link>
+    <description>Recent content in Abouts on António Zenóglio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nichas&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 01 Nov 2020 02:57:08 +0000</lastBuildDate>
+    
+	<atom:link href="https://antoniozenoglio.co/test/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://antoniozenoglio.co/test/about/about-me/</link>
+      <pubDate>Sun, 01 Nov 2020 02:57:08 +0000</pubDate>
+      
+      <guid>https://antoniozenoglio.co/test/about/about-me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

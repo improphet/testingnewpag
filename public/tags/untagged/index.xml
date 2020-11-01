@@ -2,22 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on António Zenóglio</title>
-    <link>https://antoniozenoglio.com/test/tags/untagged/</link>
+    <link>https://antoniozenoglio.co/test/tags/untagged/</link>
     <description>Recent content in untagged on António Zenóglio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nichas&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 01 Nov 2020 01:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2020 02:57:02 +0000</lastBuildDate>
     
-	<atom:link href="https://antoniozenoglio.com/test/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://antoniozenoglio.co/test/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>My Second Post</title>
+      <link>https://antoniozenoglio.co/test/posts/my-second-post/</link>
+      <pubDate>Sun, 01 Nov 2020 02:57:02 +0000</pubDate>
+      
+      <guid>https://antoniozenoglio.co/test/posts/my-second-post/</guid>
+      <description>Bom dia</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>https://antoniozenoglio.com/test/posts/my-first-post/</link>
+      <link>https://antoniozenoglio.co/test/posts/my-first-post/</link>
       <pubDate>Sun, 01 Nov 2020 01:41:06 +0000</pubDate>
       
-      <guid>https://antoniozenoglio.com/test/posts/my-first-post/</guid>
+      <guid>https://antoniozenoglio.co/test/posts/my-first-post/</guid>
       <description>Bom dia !</description>
     </item>
     
